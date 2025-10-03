@@ -41,3 +41,6 @@ Run the server again and access admin panel :
 python manage.py runserver
 
 Open in browser: http://127.0.0.1:8000/admin/
+
+**when clone the code from git and install all dependencies :**
+pip install -r requirements.txt
